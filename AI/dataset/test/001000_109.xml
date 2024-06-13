@@ -1,0 +1,26 @@
+<annotation>
+	<folder>001000</folder>
+	<filename>001000_109.jpg</filename>
+	<path>F:\Study\PBL5\SSD\data\001000\001000_109.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1000</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>721</xmin>
+			<ymin>509</ymin>
+			<xmax>1914</xmax>
+			<ymax>1230</ymax>
+		</bndbox>
+	</object>
+</annotation>
