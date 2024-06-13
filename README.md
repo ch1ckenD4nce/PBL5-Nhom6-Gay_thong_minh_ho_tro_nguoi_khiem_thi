@@ -1,0 +1,1 @@
+Giải nén các file SSDtrain.zip trong AI\results\... trước khi sử dụng
