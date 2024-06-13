@@ -1,0 +1,26 @@
+<annotation>
+	<folder>050000</folder>
+	<filename>050000_69.jpg</filename>
+	<path>F:\Study\PBL5\SSD\data\050000\050000_69.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>50000</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>839</xmin>
+			<ymin>461</ymin>
+			<xmax>2042</xmax>
+			<ymax>1071</ymax>
+		</bndbox>
+	</object>
+</annotation>
